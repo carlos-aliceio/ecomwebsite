@@ -226,7 +226,7 @@ langchain-community==0.3.23
 langchain-core==0.3.56
 langchain-text-splitters==0.3.8
 langsmith==0.3.38
-lazy_loader==0.2
+lazy_loader==0.4
 Levenshtein==0.25.1
 libclang==18.1.1
 libretranslatepy==2.1.1
